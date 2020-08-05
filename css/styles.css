@@ -211,8 +211,9 @@ body {
 
 .food-img {
 width: 100px;
+height: 100px;
 margin-bottom: 20px;
 border-radius: 7px;
-float: left;
+
 margin-right: 10px;
 }
