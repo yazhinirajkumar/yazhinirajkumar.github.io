@@ -210,8 +210,8 @@ body {
 }
 
 .food-img {
-  width: 70px;
-transform: scale(0.8);
+width: 100px;
+height: 100px;
 margin-bottom: 20px;
 border-radius: 7px;
 margin-right: 10px;
