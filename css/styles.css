@@ -1,0 +1,218 @@
+body {
+    font-family: "Monserrat"
+}
+
+.navbar {
+    background-color: #eb6383;
+}
+
+.navbar-brand{
+    padding-left: 35px;
+    padding-top: 40px;
+    font-family: "Montserrat-Bold";
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-link {
+  font-family: "Montserrat-Regular";
+  font-size: 1.2rem;
+  padding-top: 40px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.intro{
+  background-color: #eb6383;
+  margin-right: 0;
+}
+
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    margin: 50px;
+}
+
+.title-img {
+  transform: scale(0.7);
+  border-radius: 70px;
+}
+
+.youtube {
+  margin-left: 45px
+}
+
+.section-heading {
+  font-size: 3rem;
+  text-align: center;
+  padding-top: 40px;
+  font-family: "Montserrat-Bold";
+}
+
+.section-sub {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: "Montserrat-Regular";
+}
+
+.card-header {
+  text-align: center;
+  background-color: pink;
+  font-family: "Montserrat-Bold";
+}
+
+.card-body {
+  text-align: center;
+  background-color: pink;
+}
+
+.price-text {
+  text-align: center;
+  font-family: "Montserrat-Bold";
+}
+
+#menu {
+  padding-bottom: 5%;
+  background-color: #eb6383;
+  color: #fff;
+}
+
+.pricing-column {
+  padding: 45px;
+}
+
+.cookies-img {
+  width: 28%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 10%;
+  border-radius: 40px;
+}
+
+.Cake-img {
+  width: 28%;
+  float: right;
+  margin-left: 20px;
+  margin-right: 10%;
+  border-radius: 40px;
+}
+
+.title-baking {
+  padding-top: 35px;
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: "Montserrat-Black";
+}
+
+.cookies-heading {
+  font-size: 2rem;
+  padding-top: 50px;
+  font-family: "Montserrat-Bold";
+}
+
+.cake-heading {
+  font-size: 2rem;
+  padding-top: 10%;
+  padding-left: 35%;
+  font-family: "Montserrat-Bold";
+}
+
+.cake-sub {
+  padding-left: 35%;
+  font-size: 1.3rem;
+  line-height: 2rem;
+  color: grey;
+}
+
+.cookies-sub {
+  padding-right: 35%;
+  font-size: 1.3rem;
+  line-height: 2rem;
+  color: grey;
+}
+
+#bake {
+  color: black  ;
+  padding-bottom: 10%;
+}
+
+#footer {
+  color: #fff;
+  background-color: #eb6383;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.icon-1 {
+  margin: 7px;
+}
+
+.icon-2 {
+  margin: 7px;
+}
+
+.icon-3 {
+  margin: 7px;
+}
+
+.icon-4 {
+  margin: 7px;
+}
+
+.heading {
+  font-size: 3rem;
+  padding-top: 25px;
+  text-align: center;
+  font-family: "Montserrat-Black";
+}
+
+.menu-2 {
+  color: black;
+  text-decoration: underline;
+  margin-bottom: 30px;
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: "Montserrat-Regular";
+}
+
+.menu-2:hover {
+  color: black;
+}
+
+.food {
+  width: 500px;
+  margin: auto;
+  color: black;
+}
+
+.food:hover {
+  color: black;
+  text-decoration: none;
+}
+
+#section-menu{
+  height: 830px;
+}
+.middleBlock{
+  margin-left: 20px;
+}
+
+.price {
+  color: #f54291;
+}
+
+.food-sub {
+  color: grey;
+}
+
+.food-img {
+width: 100px;
+margin-bottom: 20px;
+border-radius: 7px;
+float: left;
+margin-right: 10px;
+}
