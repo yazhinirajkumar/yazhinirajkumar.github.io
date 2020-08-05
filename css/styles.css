@@ -211,6 +211,7 @@ body {
 
 .food-img {
 width: 100px;
+transform: scale(0.8);
 margin-bottom: 20px;
 border-radius: 7px;
 margin-right: 10px;
